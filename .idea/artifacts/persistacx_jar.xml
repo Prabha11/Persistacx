@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="persistacx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/persistacx_jar</output-path>
+    <root id="archive" name="persistacx.jar">
+      <element id="module-output" name="persistacx" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/couchbase/jdbc/jdbc-n1ql/0.5.0/jdbc-n1ql-0.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
